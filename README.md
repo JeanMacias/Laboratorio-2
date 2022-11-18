@@ -36,9 +36,10 @@ circuito.
 
 1.5.1.Implemente el circuito que se presenta en la figura 2.1
 
-CÁLCULOS
 
 ![imagenes lab 2 fce_page-0002](https://user-images.githubusercontent.com/116774235/202714253-7b0e18ff-090d-43c0-a0c9-e87ee5df8030.jpg)
+
+CÁLCULOS
 
 ![imagenes lab 2 fce_page-0005](https://user-images.githubusercontent.com/116774235/202714370-5d8186cb-a38a-4638-b6e3-122a272c319e.jpg)
 
