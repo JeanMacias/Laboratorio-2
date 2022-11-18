@@ -63,7 +63,7 @@ ANEXOS
 
 ![imagenes lab 2 fce_page-0003](https://user-images.githubusercontent.com/116774235/202714292-43bcd81d-3dee-40ae-81d4-07a30831d65e.jpg)
 
-
+Después de realizar los respectivos cálculos se notó que no hay gran diferencia con respecto al valor de las corrientes de las mallas. La mayoría de los resultados son casi iguales.
 
 
 1.5.3 Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los
