@@ -69,6 +69,7 @@ ANEXOS
 1.5.3 Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los
 valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
+![imagenes lab 2 fce_page-0004](https://user-images.githubusercontent.com/116774235/202715645-a8afd61a-2a37-4694-8773-c559c362142d.jpg)
 
 
 
