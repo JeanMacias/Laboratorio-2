@@ -71,5 +71,15 @@ valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
 ![imagenes lab 2 fce_page-0004](https://user-images.githubusercontent.com/116774235/202715645-a8afd61a-2a37-4694-8773-c559c362142d.jpg)
 
+CONCLUSIONES
+
+* Se logró establecer bases más compactas con respecto a las leyes de voltajes y de corrientes de KIRCHHOFF y su aplicación.
+
+* El software THINKERCAD fue de gran ayuda al momento de montar el circuito debido a su gran capacidad de interacción.
+
+BIBLIOGRAFÍA
+
+• "Ley de Kirchhoff: Análisis de mallas. - HeTPro-Tutoriales". HeTPro-Tutoriales. https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
+
 
 
